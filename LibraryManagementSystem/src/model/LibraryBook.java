@@ -18,7 +18,6 @@ public class LibraryBook {
     public String getName() { return name; }
     public int getStock() { return stock; }
 
-    // 🔥 ADD THESE METHODS
     public void reduceStock() {
         if (stock > 0) stock--;
     }
