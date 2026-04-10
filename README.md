@@ -50,7 +50,7 @@ THE FUNCTIONS PRESENT IN LIBRARY MANAGEMENT SYSTEM
 
 6.VIEW USERS
 
-![image alt](LibraryManagementSystem/src/viewusers.png)
+![image alt](LibraryManagementSystem/src/viewuser.png)
 
 7.ISSUE BOOK
 
